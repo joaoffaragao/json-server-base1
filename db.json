@@ -6,6 +6,85 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "joao@teste.com",
+      "password": "$2a$10$5/.J5iqUo/gQ3CmngERIreJljCIl5fLRCJ72e0Rc0gJHLd7U9bgo.",
+      "id": 2
+    }
+  ],
+  "PetsAdocao": [
+    {
+      "userId": 2,
+      "id": 1,
+      "LocaisAdocaoId": 3,
+      "name": "pikachu",
+      "type": "gato",
+      "idade": 1,
+      "img": "https://media.istockphoto.com/id/1071204136/pt/foto/cute-bengal-funny-cat-playing.webp?s=612x612&w=is&k=20&c=Aarg6j25qkziPscz94gYshtTZb9NHeNB4Q_tfWzwkCw="
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "LocaisAdocaoId": 2,
+      "name": "billy",
+      "type": "cachorro",
+      "idade": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUr_p_-aU4TAst3FA8W7w7YUE4Kk0LJ75tA&usqp=CAU"
+    },
+    {
+      "userId": 2,
+      "id": 3,
+      "LocaisAdocaoId": 2,
+      "name": "frajola",
+      "type": "gato",
+      "idade": 1,
+      "img": "https://static.vecteezy.com/ti/fotos-gratis/p1/2410801-gato-preto-e-branco-no-fundo-azul-gr%C3%A1tis-foto.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "LocaisAdocaoId": 1,
+      "name": "camelo",
+      "type": "cachorro",
+      "idade": 3,
+      "img": "https://i0.statig.com.br/bancodeimagens/78/pt/gs/78ptgsfeddfh638dkkzya5p3y.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "LocaisAdocaoId": 1,
+      "name": "liao",
+      "type": "gato",
+      "idade": 2,
+      "img": "https://pt.vecteezy.com/foto/947920-engracado-fofo-gato-olhando-para-cima-para-copiar-espaco"
+    }
+  ],
+  "LocaisAdocao": [
+    {
+      "id": 1,
+      "Rua": "Rua 01",
+      "Bairro": "centro"
+    },
+    {
+      "id": 2,
+      "Rua": "Rua 02",
+      "Bairro": "Leste"
+    },
+    {
+      "id": 3,
+      "Rua": "Rua 03",
+      "Bairro": "Oeste"
+    },
+    {
+      "id": 4,
+      "Rua": "Rua 04",
+      "Bairro": "Sul"
+    },
+    {
+      "id": 5,
+      "Rua": "Rua 05",
+      "Bairro": "Norte"
     }
   ]
 }
