@@ -17,6 +17,21 @@
         "estado": "100.100.100-80",
         "cidade": "100.100.100-80"
       }
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$GRkV0DR2ugqCyO7b9gndZOeBVqV07bLixv01YMj5v48ELsWxG87zu",
+      "cpf": "200.200.200-90",
+      "endereco": {
+        "cep": "100.100.100-80",
+        "rua": "100.100.100-80",
+        "bairro": "100.100.100-80",
+        "numero": "100.100.100-80",
+        "pais": "100.100.100-80",
+        "estado": "100.100.100-80",
+        "cidade": "100.100.100-80"
+      },
+      "id": 2
     }
   ]
 }
