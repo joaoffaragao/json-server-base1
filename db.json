@@ -35,18 +35,46 @@
     }
   ],
   "rooms": [
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 1 },
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 1
+    },
 
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 2 },
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 2
+    },
 
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 3 },
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 3
+    },
 
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 4 },
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 4
+    },
 
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 5 },
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 5
+    },
 
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 4 },
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 4
+    },
 
-    { "img": "./assets/rooms", "title": "Quartos Simples", "rank": 3 }
+    {
+      "img": "../../assets/svg-login/Room2.svg",
+      "title": "Quartos Simples",
+      "rank": 3
+    }
   ]
 }
