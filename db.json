@@ -40,13 +40,6 @@
         "checkin": "10/10/2022",
         "checkout": "12/10/2022"
       },
-      "hotelSpent": [
-        {
-          "name": "Quarto simples",
-          "price": 170,
-          "tipe": "hotel"
-        }
-      ],
       "id": 2
     }
   ],
