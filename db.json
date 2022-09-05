@@ -47,23 +47,6 @@
           "tipe": "hotel"
         }
       ],
-      "extraSpent": [
-        {
-          "name": "Restaurante Jose",
-          "price": 82.5,
-          "tipe": "food"
-        },
-        {
-          "name": "Restaurante sushi",
-          "price": 102.5,
-          "tipe": "food"
-        },
-        {
-          "name": "Mercado Cultural",
-          "price": 82.5,
-          "tipe": "store"
-        }
-      ],
       "id": 2
     }
   ],
@@ -104,5 +87,33 @@
       "rank": 3
     }
   ],
-  "hotelSpent": []
+  "extraSpent": [
+    {
+      "name": "Restaurante Jose",
+      "price": 82.5,
+      "tipe": "food",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Restaurante sushi",
+      "price": 102.5,
+      "tipe": "food",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Mercado Cultural",
+      "price": 82.5,
+      "tipe": "store",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "loja",
+      "price": "25.50",
+      "userId": 2,
+      "id": 4
+    }
+  ]
 }
