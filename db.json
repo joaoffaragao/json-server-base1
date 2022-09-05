@@ -31,6 +31,38 @@
         "estado": "100.100.100-80",
         "cidade": "100.100.100-80"
       },
+      "room": {
+        "title": "Quarto simples",
+        "img": "https://coralplaza.com.br/wp-content/uploads/2018/07/194920-tipos-de-quarto-de-hotel-como-escolher-o-melhor-na-sua-hospedagem-1.jpg",
+        "rank": 4,
+        "price": 170,
+        "checkin": "10/10/2022",
+        "checkout": "12/10/2022"
+      },
+      "gastosHotel": [
+        {
+          "name": "Quarto simples",
+          "price": 170,
+          "tipe": "hotel"
+        }
+      ],
+      "gastosExtras": [
+        {
+          "name": "Restaurante Jose",
+          "price": 82.5,
+          "tipe": "food"
+        },
+        {
+          "name": "Restaurante sushi",
+          "price": 102.5,
+          "tipe": "food"
+        },
+        {
+          "name": "Mercado Cultural",
+          "price": 82.5,
+          "tipe": "store"
+        }
+      ],
       "id": 2
     }
   ],
@@ -40,37 +72,31 @@
       "title": "Quartos Simples",
       "rank": 1
     },
-
     {
       "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
       "title": "Quartos Simples",
       "rank": 2
     },
-
     {
       "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
       "title": "Quartos Simples",
       "rank": 3
     },
-
     {
       "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
       "title": "Quartos Simples",
       "rank": 4
     },
-
     {
       "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
       "title": "Quartos Simples",
       "rank": 5
     },
-
     {
       "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
       "title": "Quartos Simples",
       "rank": 4
     },
-
     {
       "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
       "title": "Quartos Simples",
