@@ -5,31 +5,32 @@
       "senha": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "nome": "Kenzinho",
       "idade": 38,
-      "dataNascimento": "01/01/1990",
+      "birthday": "01/01/1990",
       "id": 1,
       "cpf": "100.100.100-80",
       "endereco": {
         "cep": "100.100.100-80",
-        "rua": "100.100.100-80",
-        "bairro": "100.100.100-80",
-        "numero": "100.100.100-80",
-        "pais": "100.100.100-80",
-        "estado": "100.100.100-80",
-        "cidade": "100.100.100-80"
+        "street": "100.100.100-80",
+        "district": "100.100.100-80",
+        "number": "100.100.100-80",
+        "country": "100.100.100-80",
+        "state": "100.100.100-80",
+        "city": "100.100.100-80"
       }
     },
     {
       "email": "teste@teste.com",
       "password": "$2a$10$GRkV0DR2ugqCyO7b9gndZOeBVqV07bLixv01YMj5v48ELsWxG87zu",
       "cpf": "200.200.200-90",
+      "name": "teste",
       "endereco": {
         "cep": "100.100.100-80",
-        "rua": "100.100.100-80",
-        "bairro": "100.100.100-80",
-        "numero": "100.100.100-80",
-        "pais": "100.100.100-80",
-        "estado": "100.100.100-80",
-        "cidade": "100.100.100-80"
+        "street": "100.100.100-80",
+        "district": "100.100.100-80",
+        "number": "100.100.100-80",
+        "country": "100.100.100-80",
+        "state": "100.100.100-80",
+        "city": "100.100.100-80"
       },
       "room": {
         "title": "Quarto simples",
@@ -39,14 +40,14 @@
         "checkin": "10/10/2022",
         "checkout": "12/10/2022"
       },
-      "gastosHotel": [
+      "hotelSpent": [
         {
           "name": "Quarto simples",
           "price": 170,
           "tipe": "hotel"
         }
       ],
-      "gastosExtras": [
+      "extraSpent": [
         {
           "name": "Restaurante Jose",
           "price": 82.5,
