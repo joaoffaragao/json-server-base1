@@ -46,25 +46,25 @@
   "rooms": [
     {
       "img": "https://www.hotelrio.com.br/wp-content/uploads/2017/08/quartos-60-scaled.jpg",
-      "title": "Quartos Simples",
+      "title": "Quarto Simples",
       "rank": 2,
       "price": 100
     },
     {
       "img": "https://media-cdn.tripadvisor.com/media/photo-s/08/e4/a3/bc/bhb-hotel.jpg",
-      "title": "Quartos Duplos",
+      "title": "Quarto Duplos",
       "rank": 3,
       "price": 175
     },
     {
       "img": "https://www.hotelrenascenca.com.br/wp-content/uploads/2016/03/apartamento-quadruplo-01-1600x1060.jpg",
-      "title": "Quartos Quarduplo",
+      "title": "Quarto Quadruplo",
       "rank": 4,
       "price": 250
     },
     {
       "img": "https://www.hotelrenascenca.com.br/wp-content/uploads/2016/03/apartamento-quadruplo-01-1600x1060.jpg",
-      "title": "Quartos Especial",
+      "title": "Quarto Especial",
       "rank": 5,
       "price": 500
     }
