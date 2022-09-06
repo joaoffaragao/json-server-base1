@@ -84,28 +84,29 @@
     {
       "name": "Restaurante Jose",
       "price": 82.5,
-      "tipe": "food",
+      "type": "food",
       "userId": 2,
       "id": 1
     },
     {
       "name": "Restaurante sushi",
       "price": 102.5,
-      "tipe": "food",
+      "type": "food",
       "userId": 2,
       "id": 2
     },
     {
       "name": "Mercado Cultural",
       "price": 82.5,
-      "tipe": "store",
+      "type": "store",
       "userId": 2,
       "id": 3
     },
     {
+      "type": "amora",
       "title": "loja",
       "price": "25.50",
-      "userId": 2,
+      "userId": 3,
       "id": 4
     }
   ]
