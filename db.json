@@ -45,39 +45,28 @@
   ],
   "rooms": [
     {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
+      "img": "https://www.hotelrio.com.br/wp-content/uploads/2017/08/quartos-60-scaled.jpg",
       "title": "Quartos Simples",
-      "rank": 1
+      "rank": 2,
+      "price": 100
     },
     {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
-      "title": "Quartos Simples",
-      "rank": 2
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/08/e4/a3/bc/bhb-hotel.jpg",
+      "title": "Quartos Duplos",
+      "rank": 3,
+      "price": 175
     },
     {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
-      "title": "Quartos Simples",
-      "rank": 3
+      "img": "https://www.hotelrenascenca.com.br/wp-content/uploads/2016/03/apartamento-quadruplo-01-1600x1060.jpg",
+      "title": "Quartos Quarduplo",
+      "rank": 4,
+      "price": 250
     },
     {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
-      "title": "Quartos Simples",
-      "rank": 4
-    },
-    {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
-      "title": "Quartos Simples",
-      "rank": 5
-    },
-    {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
-      "title": "Quartos Simples",
-      "rank": 4
-    },
-    {
-      "img": "https://www.pacoteshyatt.com.br/wp-content/uploads/2018/08/hotel-hyatt-sao-paulo.jpg",
-      "title": "Quartos Simples",
-      "rank": 3
+      "img": "https://www.hotelrenascenca.com.br/wp-content/uploads/2016/03/apartamento-quadruplo-01-1600x1060.jpg",
+      "title": "Quartos Especial",
+      "rank": 5,
+      "price": 500
     }
   ],
   "extraSpent": [
@@ -101,14 +90,6 @@
       "type": "store",
       "userId": 2,
       "id": 3
-    },
-    {
-      "name": "loja de fruta",
-      "type": "amora",
-      "title": "loja",
-      "price": "25.50",
-      "userId": 3,
-      "id": 4
     }
   ]
 }
