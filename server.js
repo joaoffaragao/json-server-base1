@@ -12,6 +12,7 @@ const rules = auth.rewriter({
   users: 600,
   rooms: 444,
   extraSpent: 600,
+  listRestaurants:444,
 });
 
 app.use(cors());

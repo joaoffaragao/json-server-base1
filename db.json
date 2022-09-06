@@ -73,23 +73,109 @@
     {
       "name": "Restaurante Jose",
       "price": 82.5,
-      "type": "food",
+      "type": "Alimentacao",
       "userId": 2,
       "id": 1
     },
     {
       "name": "Restaurante sushi",
       "price": 102.5,
-      "type": "food",
+      "type": "Alimentacao",
       "userId": 2,
       "id": 2
     },
     {
       "name": "Mercado Cultural",
       "price": 82.5,
-      "type": "store",
+      "type": "Compras",
       "userId": 2,
       "id": 3
+    }
+  ],
+  "listRestaurants": [
+    {
+      "img": "https://img.freepik.com/free-photo/luxury-restaurant-grill-bar-interior-with-chandeliers-furniture_114579-2341.jpg?w=740&t=st=1662482515~exp=1662483115~hmac=80ad7058df99b7168115f38014fcfa115529c73186797e9520723f7383b7a38b",
+      "category": "Bar",
+      "id": 1,
+      "district": "Taquara",
+      "name": "Carioca Bar"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/black-wooden-table_417767-153.jpg?w=360&t=st=1662482527~exp=1662483127~hmac=f9dcb0896daad52e30913281a6bad44a2825383c015947e3f19fb2973248c7e5",
+      "category": "Bar",
+      "id": 2,
+      "district": "Centro",
+      "name": "Butixo"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/restaurant-interior_1127-3394.jpg?w=740&t=st=1662482520~exp=1662483120~hmac=ac71b039ba0cd9d918ef56b82c640d3ed345e02a0900cde45b745ded17edb894",
+      "category": "Bar",
+      "id": 3,
+      "district": "Zonal Sul",
+      "name": "Zero Grau"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/cocktails-shaker-arrangement-night-club_23-2149093603.jpg?w=740&t=st=1662482485~exp=1662483085~hmac=aae728c8c343604d8e4e824c7d33de2da4606c8a156a887f71b71620352719dc",
+      "category": "Bar",
+      "id": 4,
+      "district": "Zona Oeste",
+      "name": "The Duck Rock Pub"
+    },
+    {
+      "img": "https://img.freepik.com/free-psd/top-view-tasty-sea-food-composition-with-mock-up_23-2148421114.jpg?w=740&t=st=1662485161~exp=1662485761~hmac=dc1ca83440a8b75c8768ab7de106c4e4f48d9352078b91ba74a55b5a2929442d",
+      "category": "Restaurant",
+      "id": 5,
+      "district": "Zona Sul",
+      "name": "Sea Food"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg?w=360&t=st=1662485288~exp=1662485888~hmac=03a2c9da89eb76da9e708486fc470672e2b07f4ab6a81d4761cf969045552abd",
+      "category": "Restaurant",
+      "id": 6,
+      "district": "Zona Oeste",
+      "name": "Game Of Pizza"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg?w=740&t=st=1662485618~exp=1662486218~hmac=e5705d28f66f11d8530a6afdf4db547d2f7ac299eaa5658967f72d6fed8c51c4",
+      "category": "Restaurant",
+      "id": 7,
+      "district": "Zona Norte",
+      "name": "Steak"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/sushi-set-hot-rolls-avocado-california-salmon-rolls_141793-1279.jpg?w=740&t=st=1662485667~exp=1662486267~hmac=8f55d989c92bc1bcd30196aec0b6368ca431a98e395a0380adfbfae2431e207f",
+      "category": "Restaurant",
+      "id": 8,
+      "district": "Palmeiras",
+      "name": "Sushi na praça"
+    },
+    {
+      "img": "https://img.freepik.com/free-psd/corner-business-mock-up-coffee-shops_23-2149002795.jpg?w=826&t=st=1662485934~exp=1662486534~hmac=d28b4da7bf8984a13d50d0c6fea4b94a1280ffcafd04c87af3b5fd5aab3b9a63",
+      "category": "Shop",
+      "id": 9,
+      "district": "Palmeiras",
+      "name": "Café do primo"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/full-shot-woman-shopping-market_23-2149148466.jpg?w=740&t=st=1662486097~exp=1662486697~hmac=0e7c5041d535fcf1c4aa523d7784854147d95b31199f74e88d2d968461dba530",
+      "category": "Shop",
+      "id": 10,
+      "district": "Braga",
+      "name": "Mercado Sund"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/full-shot-woman-shopping-market_23-2149148466.jpg?w=740&t=st=1662486097~exp=1662486697~hmac=0e7c5041d535fcf1c4aa523d7784854147d95b31199f74e88d2d968461dba530",
+      "category": "Shop",
+      "id": 11,
+      "district": "Centro",
+      "name": "Mercado Bons Frutos"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/clothing-store-with-blurred-efecto_23-2148164686.jpg?w=740&t=st=1662486236~exp=1662486836~hmac=e40ccecc58630050742c1133960e660acfc565d1f51b9e9fe65f3b91a0ec96fa",
+      "category": "Shop",
+      "id": 12,
+      "district": "Centro",
+      "name": "Reserva"
     }
   ]
 }
