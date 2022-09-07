@@ -32,14 +32,7 @@
         "state": "100.100.100-80",
         "city": "100.100.100-80"
       },
-      "room": {
-        "title": "Quarto simples",
-        "img": "https://coralplaza.com.br/wp-content/uploads/2018/07/194920-tipos-de-quarto-de-hotel-como-escolher-o-melhor-na-sua-hospedagem-1.jpg",
-        "rank": 4,
-        "price": 170,
-        "checkin": "10/10/2022",
-        "checkout": "12/10/2022"
-      },
+      "room": {},
       "id": 2
     }
   ],
