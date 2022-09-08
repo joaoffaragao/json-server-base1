@@ -33,7 +33,16 @@
         "city": "100.100.100-80"
       },
       "room": {},
-      "id": 2
+      "id": 2,
+      "gastos": {
+        "gastosHotel": [
+          {
+            "name": "Quarto Simples",
+            "price": 175,
+            "type": "Hospedagem"
+          }
+        ]
+      }
     }
   ],
   "rooms": [
