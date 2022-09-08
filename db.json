@@ -66,27 +66,7 @@
     }
   ],
   "extraSpent": [
-    {
-      "name": "Restaurante Jose",
-      "price": 82.5,
-      "type": "Food",
-      "userId": 2,
-      "id": 1
-    },
-    {
-      "name": "Restaurante sushi",
-      "price": 102.5,
-      "type": "Food",
-      "userId": 2,
-      "id": 2
-    },
-    {
-      "name": "Mercado Cultural",
-      "price": 82.5,
-      "type": "Store",
-      "userId": 2,
-      "id": 3
-    }
+
   ],
   "listRestaurants": [
     {
