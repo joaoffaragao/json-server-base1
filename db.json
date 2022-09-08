@@ -35,13 +35,7 @@
       "room": {},
       "id": 2,
       "gastos": {
-        "gastosHotel": [
-          {
-            "name": "Quarto Simples",
-            "price": 175,
-            "type": "Hospedagem"
-          }
-        ]
+        "gastosHotel": []
       }
     }
   ],
